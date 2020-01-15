@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.entete{
+margin-left: 75%;
+text-decoration: none;
+}
+
+#button{
+    padding: 7px;
+    background-color: blue;
+    color: white;
+}
+
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#input{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 500px;
+   height: 40px;
+   border-radius: 50px;
+}
+
+.corps1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#langue{
+    color: blue;
+}
+
+.corps2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+footer{
+    margin-top: 13em;
+    background-color: rgb(199, 194, 194);
+}
+
+.footer{
+    display: flex;
+}
+
+.foot2{
+    margin-left: 2px;
+    margin-right: 200px;
+}
+
+a{
+    text-decoration: none; 
+    padding-left: 10px;
+    color: black;
+}
+
