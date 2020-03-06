@@ -14,6 +14,9 @@ text-decoration: none;
     color: white;
 }
 
+body{
+    background-color: red;
+}
 img{
    display: block;
    margin-left: auto;
@@ -39,7 +42,8 @@ img{
     color: blue;
 }
 
-.corps2{
+.corps2{background-color: red;
+
     display: block;
     margin-left: auto;
     margin-right: auto;
